@@ -23,8 +23,8 @@ namespace lesson_1
             short b;
             b = -1;
 
-            ushort b1;
-            b1 = -1;
+            //ushort b1;
+            //b1 = -1;
 
             int c;
             c = -1;
